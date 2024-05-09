@@ -1,0 +1,1115 @@
+﻿#-------------------------------
+[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+PlayerC=POKEMONTRAINER_MayP,trchar072,girl3_bike,girl3_surf,girl3_run,girl3_surf,girl3_fish_offset,xxx
+PlayerD=POKEMONTRAINER_Gold,trchar074,boy2_bike,boy2_surf,boy2_run,boy2_surf,boy2_fish_offset,xxx
+TrainerVictoryME=Battle victory trainer.ogg
+PlayerE=POKEMONTRAINER_Crystal,trchar075,girl2_bike,girl2_surf,girl2_run,girl2_surf,girl2_fish_offset,xxx
+WildVictoryME=Battle victory wild.ogg
+PlayerF=BLACKDEVIL,trchar076,hartmann_bike,hartmann_surf,hartmann_run,hartmann_surf,hartmann_fish_offset,xxx
+TrainerBattleBGM=Kanto Trainer Battle.mp3
+PlayerG=OJAMAJO,trchar090,momoko_bike,momoko_surf,momoko_run,momoko_surf,momoko_fish_offset,xxx
+PlayerH=CUSTOMTRAINER,trchar091,custom_bike,custom_surf,custom_run,custom_surf,custom_fish_offset,xxx
+SurfBGM=frlg_surf.mp3
+BicycleBGM=frlg_cycling.mp3
+Home=3,7,5,8
+WildBattleBGM=Kanto Wild Pokemon.mp3
+#-------------------------------
+[001]
+# Intro
+#-------------------------------
+[003]
+# \PN's house
+BattleBack=IndoorB
+MapPosition=0,13,12
+HealingSpot=2,8,8
+#-------------------------------
+[004]
+# Pokémon Lab
+ShowArea=false
+#-------------------------------
+[005]
+# Route 1
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[006]
+# Kurt's house
+#-------------------------------
+[007]
+# Cedolan City
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[008]
+# Daisy's house
+MapPosition=0,13,12
+#-------------------------------
+[009]
+# Cedolan City Poké Center
+MapPosition=0,14,10
+HealingSpot=8,17,11
+#-------------------------------
+[010]
+# Cedolan Gym
+BattleBack=IndoorB
+MapPosition=0,13,10
+#-------------------------------
+[011]
+# Pokémon Institute
+MapPosition=0,14,10
+#-------------------------------
+[012]
+# Cedolan City Condo
+MapPosition=0,14,10
+#-------------------------------
+[013]
+# Game Corner
+MapPosition=0,14,10
+#-------------------------------
+[014]
+# Cedolan Dept. 1F
+MapPosition=0,13,10
+#-------------------------------
+[015]
+# Cedolan Dept. 2F
+MapPosition=0,13,10
+#-------------------------------
+[016]
+# Cedolan Dept. 3F
+MapPosition=0,13,10
+#-------------------------------
+[017]
+# Cedolan Dept. 4F
+MapPosition=0,13,10
+#-------------------------------
+[018]
+# Cedolan Dept. 5F
+MapPosition=0,13,10
+#-------------------------------
+[019]
+# Cedolan Dept. Rooftop
+MapPosition=0,13,10
+#-------------------------------
+[020]
+# Cedolan Dept. Elevator
+MapPosition=0,13,10
+#-------------------------------
+[021]
+# Route 2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[023]
+# Lerucean Town
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[024]
+# Lerucean Town Poké Center
+MapPosition=0,15,8
+HealingSpot=23,11,15
+#-------------------------------
+[025]
+# Lerucean Town Mart
+MapPosition=0,15,8
+#-------------------------------
+[026]
+# Pokémon Fan Club
+MapPosition=0,15,8
+#-------------------------------
+[027]
+# Pokémon Day Care
+MapPosition=0,15,8
+#-------------------------------
+[028]
+# Natural Park
+BattleBack=Forest
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[029]
+# Natural Park Entrance
+Bicycle=true
+#-------------------------------
+[031]
+# Route 3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[034]
+# Ice Cave
+BattleBack=IndoorC
+Bicycle=true
+#-------------------------------
+[035]
+# Ingido Plateau
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[036]
+# Pokémon League
+MapPosition=0,13,6
+HealingSpot=35,17,7
+#-------------------------------
+[037]
+# Pokémon League
+BattleBack=EliteA
+MapPosition=0,13,6
+#-------------------------------
+[038]
+# Hall of Fame
+MapPosition=0,13,6
+#-------------------------------
+[039]
+# Route 4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[040]
+# Route 4
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[041]
+# Route 5
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[043]
+# PALLET TOWN
+Bicycle=true
+MapPosition=0,5,13
+Outdoor=true
+HealingSpot=43,12,8
+ShowArea=true
+#-------------------------------
+[044]
+# Route 6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[045]
+# Route 6
+MapPosition=0,11,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[046]
+# Cycling Road gate
+Bicycle=true
+MapPosition=0,12,6
+#-------------------------------
+[047]
+# Route 7
+BattleBack=Mountain
+Weather=Rain,0
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[049]
+# Rock Cave
+Bicycle=true
+#-------------------------------
+[050]
+# Rock Cave
+BattleBack=CaveDark
+Bicycle=true
+DarkMap=true
+#-------------------------------
+[051]
+# Dungeon
+Bicycle=true
+Dungeon=true
+#-------------------------------
+[052]
+# Battle Frontier
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[053]
+# Battle Frontier Poké Center
+MapPosition=0,17,10
+HealingSpot=52,17,14
+#-------------------------------
+[054]
+# Battle Frontier Mart
+MapPosition=0,17,10
+#-------------------------------
+[055]
+# Battle Tower
+MapPosition=0,17,10
+HealingSpot=52,30,10
+#-------------------------------
+[056]
+# Battle Tower arena
+BattleBack=EliteA
+MapPosition=0,17,10
+#-------------------------------
+[057]
+# Stadium Cup lobby
+MapPosition=0,17,10
+#-------------------------------
+[058]
+# Battle Palace
+MapPosition=0,17,10
+#-------------------------------
+[059]
+# Battle Palace arena
+BattleBack=EliteD
+MapPosition=0,17,10
+#-------------------------------
+[060]
+# Battle Arena
+MapPosition=0,17,10
+#-------------------------------
+[061]
+# Battle Arena arena
+BattleBack=EliteB
+MapPosition=0,17,10
+#-------------------------------
+[062]
+# Battle Factory
+MapPosition=0,17,10
+#-------------------------------
+[063]
+# Battle Factory intro corridor
+MapPosition=0,17,10
+#-------------------------------
+[064]
+# Battle Factory arena
+BattleBack=EliteC
+MapPosition=0,17,10
+#-------------------------------
+[065]
+# Battle Factory corridor
+MapPosition=0,17,10
+#-------------------------------
+[066]
+# Safari Zone
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[067]
+# Safari Zone gate
+#-------------------------------
+[068]
+# Safari Zone
+BattleBack=Forest
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[069]
+# Route 8
+DiveMap=70
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[070]
+# Underwater
+MapPosition=0,13,13
+#-------------------------------
+[071]
+# Harbour
+MapPosition=0,13,13
+#-------------------------------
+[072]
+# Berth Island
+Weather=Storm,50
+MapPosition=0,18,17
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[073]
+# Faraday Island
+MapPosition=0,22,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[074]
+# Cycling Road gate
+Bicycle=true
+MapPosition=0,12,10
+#-------------------------------
+[075]
+# Tiall Region
+MapPosition=1,13,16
+Outdoor=true
+#-------------------------------
+[079]
+# ROUTE 1
+MapSize=2,1010
+Bicycle=true
+MapPosition=0,5,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[080]
+# VIRIDIAN CITY
+Bicycle=true
+MapPosition=0,5,10
+Outdoor=true
+HealingSpot=80,26,27
+ShowArea=true
+#-------------------------------
+[083]
+# ROUTE 22
+MapSize=2,1100
+Bicycle=true
+MapPosition=0,3,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[087]
+# ROUTE 2
+Bicycle=true
+MapPosition=0,5,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[091]
+# VIRIDIAN FOREST
+Bicycle=true
+MapPosition=0,5,8
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[094]
+# PEWTER CITY
+Bicycle=true
+MapPosition=0,5,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[095]
+# ROUTE 3
+MapSize=6,111000
+Bicycle=true
+MapPosition=0,7,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[098]
+# ROUTE 4
+Bicycle=true
+MapPosition=0,9,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[100]
+# ROUTE 4
+Bicycle=true
+MapPosition=0,14,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[101]
+# MT. MOON 1F
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,10,5
+ShowArea=false
+#-------------------------------
+[102]
+# MT. MOON B1F
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,10,5
+ShowArea=false
+#-------------------------------
+[103]
+# MT. MOON B2F
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,10,5
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[114]
+# CERULEAN CITY
+Bicycle=true
+MapPosition=0,15,5
+Outdoor=true
+HealingSpot=114,22,20
+ShowArea=true
+#-------------------------------
+[124]
+# ROUTE 24
+MapSize=2,1010
+Bicycle=true
+MapPosition=0,15,3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[125]
+# ROUTE 25
+MapSize=2,1100
+Bicycle=true
+MapPosition=0,16,3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[128]
+# ROUTE 5
+MapSize=2,1010
+Bicycle=true
+MapPosition=0,15,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[132]
+# UNDERGROUND PATH
+Bicycle=true
+#-------------------------------
+[133]
+# ROUTE 6
+MapSize=2,1010
+Bicycle=true
+MapPosition=0,15,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[136]
+# VERMILION CITY
+Bicycle=true
+MapPosition=0,15,11
+Outdoor=true
+HealingSpot=136,20,7
+ShowArea=true
+#-------------------------------
+[144]
+# ROUTE 11
+MapSize=2,1100
+Bicycle=true
+MapPosition=0,17,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[145]
+# ROUTE 11
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[148]
+# DIGLETT'S CAVE
+Bicycle=true
+MapPosition=0,16,11
+#-------------------------------
+[149]
+# DIGLETT'S CAVE
+Bicycle=true
+#-------------------------------
+[150]
+# DIGLETT'S CAVE
+Bicycle=true
+MapPosition=0,5,7
+#-------------------------------
+[151]
+# VERMILION DOCK
+Bicycle=false
+MapPosition=0,15,11
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[174]
+# Captain's room
+MapPosition=0,15,12
+#-------------------------------
+[176]
+# S.S. Anne Deck
+Outdoor=true
+#-------------------------------
+[177]
+# ROUTE 9
+MapSize=2,1100
+Bicycle=true
+MapPosition=0,16,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[178]
+# ROUTE 10
+Bicycle=true
+MapPosition=0,18,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[180]
+# ROUTE 10
+Bicycle=true
+MapPosition=0,19,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[182]
+# ROCK TUNNEL 1F
+Bicycle=true
+MapPosition=0,19,5
+DarkMap=true
+ShowArea=false
+#-------------------------------
+[183]
+# ROCK TUNNEL B1F
+Bicycle=true
+MapPosition=0,19,5
+DarkMap=true
+#-------------------------------
+[184]
+# LAVENDER TOWN
+Bicycle=true
+MapPosition=0,19,8
+Outdoor=true
+HealingSpot=184,6,6
+ShowArea=true
+#-------------------------------
+[190]
+# POKéMON TOWER 1F
+BattleBack=IndoorC
+MapPosition=0,19,8
+#-------------------------------
+[191]
+# POKéMON TOWER 2F
+BattleBack=IndoorC
+MapPosition=0,19,8
+#-------------------------------
+[192]
+# POkéMON TOWER 3F
+BattleBack=IndoorC
+MapPosition=0,19,8
+#-------------------------------
+[193]
+# POKéMON TOWER 4F
+BattleBack=IndoorC
+MapPosition=0,19,8
+#-------------------------------
+[194]
+# POKéMON TOWER 5F
+BattleBack=IndoorC
+MapPosition=0,19,8
+#-------------------------------
+[195]
+# POKéMON TOWER 6F
+BattleBack=IndoorC
+MapPosition=0,19,8
+#-------------------------------
+[196]
+# POKéMON TOWER 7F
+BattleBack=IndoorC
+MapPosition=0,19,8
+#-------------------------------
+[197]
+# ROUTE 8
+Bicycle=true
+MapPosition=0,17,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[199]
+# UNDERGROUND PATH
+Bicycle=true
+#-------------------------------
+[202]
+# ROUTE 7
+Bicycle=true
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[205]
+# CELADON CITY
+Bicycle=true
+MapPosition=0,12,8
+Outdoor=true
+HealingSpot=205,48,18
+ShowArea=true
+#-------------------------------
+[212]
+# Celadon Dept. Rooftop
+Outdoor=true
+#-------------------------------
+[219]
+# Celadon Mansion Rooftop
+Outdoor=true
+#-------------------------------
+[224]
+# ROUTE 16
+MapSize=3,111000000
+Bicycle=true
+MapPosition=0,9,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[225]
+# ROUTE 16
+MapPosition=0,8,8
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[226]
+# Route 16 gate
+Bicycle=true
+#-------------------------------
+[231]
+# ROUTE 12
+MapSize=3,100100100
+Bicycle=true
+MapPosition=0,19,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[236]
+# SAFFRON CITY
+Bicycle=true
+MapPosition=0,15,8
+Outdoor=true
+HealingSpot=236,24,40
+ShowArea=true
+#-------------------------------
+[247]
+# ROUTE 17
+MapSize=3,100100100
+MapPosition=0,8,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[248]
+# ROUTE 18
+Bicycle=true
+MapPosition=0,9,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[249]
+# ROUTE 18
+MapPosition=0,8,14
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[250]
+# Route 18 gate
+Bicycle=true
+#-------------------------------
+[252]
+# FUCHSIA CITY
+Bicycle=true
+MapPosition=0,13,14
+Outdoor=true
+HealingSpot=252,25,33
+ShowArea=true
+#-------------------------------
+[261]
+# SAFARI ZONE CENTER
+MapPosition=0,13,14
+SafariMap=true
+Outdoor=true
+#-------------------------------
+[262]
+# Rest house 1
+SafariMap=true
+#-------------------------------
+[263]
+# SAFARI ZONE AREA 1
+MapPosition=0,13,14
+SafariMap=true
+Outdoor=true
+#-------------------------------
+[264]
+# Rest house 2
+SafariMap=true
+#-------------------------------
+[265]
+# SAFARI ZONE AREA 2
+MapPosition=0,13,14
+SafariMap=true
+Outdoor=true
+#-------------------------------
+[266]
+# Rest house 3
+SafariMap=true
+#-------------------------------
+[267]
+# SAFARI ZONE AREA 4
+MapPosition=0,13,14
+SafariMap=true
+Outdoor=true
+#-------------------------------
+[268]
+# Rest house 4
+SafariMap=true
+#-------------------------------
+[269]
+# Surf House
+SafariMap=true
+#-------------------------------
+[271]
+# ROUTE 13
+MapSize=2,1100
+Bicycle=true
+MapPosition=0,16,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[272]
+# ROUTE 14
+Bicycle=true
+MapPosition=0,16,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[275]
+# Route 14 water filler
+#-------------------------------
+[276]
+# ROUTE 15
+MapSize=3,111000000
+Bicycle=true
+MapPosition=0,14,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[280]
+# ROUTE 19
+MapSize=2,1010
+Bicycle=true
+MapPosition=0,13,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[281]
+# SEAFOAM CINNABAR
+Bicycle=true
+MapPosition=0,9,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[284]
+# ROUTE 21
+MapSize=2,1010
+Bicycle=true
+MapPosition=0,5,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[285]
+# CINNABAR ISLAND
+Bicycle=true
+MapPosition=0,5,16
+Outdoor=true
+HealingSpot=285,18,12
+ShowArea=true
+#-------------------------------
+[293]
+# CINNABAR CAVE
+Bicycle=true
+MapPosition=0,5,16
+#-------------------------------
+[296]
+# POKéMON MANSION 1F
+BattleBack=IndoorB
+MapPosition=0,5,16
+#-------------------------------
+[297]
+# POKéMON MANSION 2F
+BattleBack=IndoorB
+MapPosition=0,5,16
+#-------------------------------
+[298]
+# POKéMON MANSION 3F
+BattleBack=IndoorB
+MapPosition=0,5,16
+#-------------------------------
+[299]
+# POKéMON MANSION BF1
+BattleBack=IndoorB
+MapPosition=0,5,16
+#-------------------------------
+[305]
+# SEAFOAM CAVE 1F
+BattleBack=Snow
+MapPosition=0,9,16
+#-------------------------------
+[306]
+# SEAFOAM CAVE B1F
+BattleBack=Snow
+MapPosition=0,9,16
+#-------------------------------
+[307]
+# SEAFOAM CAVE B2F
+BattleBack=Snow
+MapPosition=0,9,16
+#-------------------------------
+[308]
+# SEAFOAM CAVE B3F
+BattleBack=Snow
+MapPosition=0,9,16
+#-------------------------------
+[309]
+# SEAFOAM CAVE B4F
+BattleBack=Snow
+MapPosition=0,9,16
+#-------------------------------
+[310]
+# POWER PLANT
+BattleBack=IndoorB
+MapPosition=0,19,6
+#-------------------------------
+[312]
+# ROUTE 23
+MapSize=3,100100100
+Bicycle=true
+MapPosition=0,3,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[313]
+# INDIGO PLATEAU
+Bicycle=true
+MapPosition=0,3,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[315]
+# VICTORY ROAD
+MapPosition=0,3,6
+#-------------------------------
+[316]
+# VICTORY ROAD
+MapPosition=0,3,6
+#-------------------------------
+[317]
+# VICTORY ROAD
+MapPosition=0,3,6
+#-------------------------------
+[318]
+# POKéMON LEAGUE
+BattleBack=EliteA
+#-------------------------------
+[319]
+# POKéMON LEAGUE
+BattleBack=EliteC
+#-------------------------------
+[320]
+# POKéMON LEAGUE
+BattleBack=EliteD
+#-------------------------------
+[321]
+# POKéMON LEAGUE
+BattleBack=EliteB
+#-------------------------------
+[322]
+# POKéMON LEAGUE
+BattleBack=Champion
+#-------------------------------
+[324]
+# SMILE ISLAND
+Bicycle=true
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,15,11
+Outdoor=true
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+HealingSpot=324,20,9
+ShowArea=true
+#-------------------------------
+[326]
+# Smile Island Poké Center
+MapPosition=1,15,11
+#-------------------------------
+[327]
+# SUNNY FOREST
+MapSize=2,1010
+BattleBack=
+Weather=Sunny,25
+Bicycle=true
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,15,9
+Outdoor=true
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+#-------------------------------
+[330]
+# WINDY ROUTE 1
+MapSize=2,1100
+Bicycle=true
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,16,9
+Outdoor=true
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+ShowArea=true
+#-------------------------------
+[331]
+# WATERY ROUTE 1
+MapSize=2,0111
+Weather=Rain,25
+Bicycle=true
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,16,10
+Outdoor=true
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+ShowArea=true
+#-------------------------------
+[332]
+# DREAM CAVE 1F
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,17,9
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+#-------------------------------
+[333]
+# DREAM CAVE 2F
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,17,9
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+#-------------------------------
+[334]
+# FLOWER PATH
+MapSize=2,1010
+Bicycle=true
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,15,7
+Outdoor=true
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+ShowArea=true
+#-------------------------------
+[336]
+# CERULEAN CAVE 1F
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,5
+ShowArea=false
+#-------------------------------
+[337]
+# CERULEAN CAVE 2F
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,5
+ShowArea=false
+#-------------------------------
+[338]
+# CERULEAN CAVE BF
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,5
+ShowArea=false
+#-------------------------------
+[339]
+# FLUFFYSANDRUINS 1F
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,11
+ShowArea=false
+#-------------------------------
+[340]
+# FLUFFYSANDRUINS B1F
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,11
+ShowArea=false
+#-------------------------------
+[341]
+# FLUFFYSANDCHAMBER A
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,11
+DarkMap=true
+ShowArea=false
+#-------------------------------
+[342]
+# FLUFFYSANDCHAMBER B
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,11
+DarkMap=true
+ShowArea=false
+#-------------------------------
+[345]
+# CORE ISLAND
+Bicycle=true
+MapPosition=2,3,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[353]
+# SAFARI ZONE EXTRA
+MapPosition=0,13,14
+SafariMap=true
+Outdoor=true
+#-------------------------------
+[355]
+# Rest house 5
+SafariMap=true
+#-------------------------------
+[356]
+# WATERY ROUTE 2
+MapSize=2,0111
+Weather=Rain,25
+Bicycle=true
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,18,9
+Outdoor=true
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+ShowArea=true
+#-------------------------------
+[357]
+# CORAL ISLAND
+Bicycle=true
+TrainerBattleBGM=Kanto HGSS Trainer Battle.mp3
+MapPosition=1,19,8
+Outdoor=true
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+HealingSpot=357,46,30
+ShowArea=true
+#-------------------------------
+[360]
+# CORAL TOWN HOUSE
+MapPosition=1,19,8
+#-------------------------------
+[361]
+# DEBUG CAVE 1F
+BattleBack=Cave
+Bicycle=true
+MapPosition=1,19,8
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+ShowArea=true
+#-------------------------------
+[362]
+# DEBUG CAVE B1F
+BattleBack=Cave
+Bicycle=true
+MapPosition=1,19,8
+WildBattleBGM=Kanto HGSS Wild Pokemon.mp3
+#-------------------------------
+[363]
+# Legendary Islands
+BattleBack=WCS
+#-------------------------------
+[367]
+# JOHTO DUNGEON
+BattleBack=WCS
+MapPosition=1,1,1
+Outdoor=false
+#-------------------------------
+[368]
+# STAR ISLAND
+Bicycle=true
+MapPosition=1,25,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[371]
+# DAILY CAVE
+BattleBack=Cave
+Outdoor=false
+#-------------------------------
+[373]
+# MELODY ISLAND
+Bicycle=true
+MapPosition=1,9,17
+Outdoor=true
+ShowArea=true
