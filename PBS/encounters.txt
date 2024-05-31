@@ -409,7 +409,7 @@ PATRAT,11,14
 PATRAT,11,14
 PATRAT,11,14
 #-------------------------------
-079 # ROUTE 1
+012 # Ruta 1
 25,10,10
 Land
 PIDGEY,2,5
@@ -425,7 +425,7 @@ RATTATA,2,4
 FLETCHLING,2,5
 FLETCHLING,2,4
 #-------------------------------
-080 # VIRIDIAN CITY
+006 # Ciudad Verde
 25,10,10
 Water
 PSYDUCK,20,40
